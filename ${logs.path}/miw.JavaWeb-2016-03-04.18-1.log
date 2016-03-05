@@ -1,0 +1,5 @@
+[INFO ] 04-mar 18:10:38 tationConfigApplicationContext --> Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74650e52: startup date [Fri Mar 04 18:10:38 CET 2016]; root of context hierarchy
+[INFO ] 04-mar 18:13:44 tationConfigApplicationContext --> Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74650e52: startup date [Fri Mar 04 18:13:44 CET 2016]; root of context hierarchy
+[INFO ] 04-mar 18:14:14 tationConfigApplicationContext --> Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74650e52: startup date [Fri Mar 04 18:14:14 CET 2016]; root of context hierarchy
+[INFO ] 04-mar 18:15:29 tationConfigApplicationContext --> Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74650e52: startup date [Fri Mar 04 18:15:29 CET 2016]; root of context hierarchy
+[INFO ] 04-mar 18:15:29 tationConfigApplicationContext --> Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@74650e52: startup date [Fri Mar 04 18:15:29 CET 2016]; root of context hierarchy
