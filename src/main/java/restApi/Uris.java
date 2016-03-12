@@ -36,4 +36,6 @@ public class Uris {
     
     public static final String CALCULADORA2 = "/calculadora2";
 
+    public static final String PLAYERANNOTATION = "/playerannotation";
+    public static final String PLAYERURI = "/playeruri";
 }
